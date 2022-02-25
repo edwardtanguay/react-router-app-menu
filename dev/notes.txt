@@ -3,4 +3,6 @@
 	- x Report page
 	- x git init and push
 	- x About page
-- 
+- .. make nav bar
+	- .. react router in nav
+	- styling
