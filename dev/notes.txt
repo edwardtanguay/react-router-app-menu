@@ -1,4 +1,5 @@
 ,, create three pages: Welcome, Reports, About
 	- x Welcome
 	- x Report page
-	- .. git init and push
+	- x git init and push
+	- .. About page
