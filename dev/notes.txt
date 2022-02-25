@@ -1,5 +1,6 @@
-,, create three pages: Welcome, Reports, About
+- x create three pages: Welcome, Reports, About
 	- x Welcome
 	- x Report page
 	- x git init and push
-	- .. About page
+	- x About page
+- 
