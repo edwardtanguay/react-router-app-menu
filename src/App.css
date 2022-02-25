@@ -49,3 +49,11 @@ body {
 .App nav ul li a.active {
   color: yellow;
 }
+
+.App nav ul li a.active:before {
+  content: '(';
+}
+
+.App nav ul li a.active:after {
+  content: ')';
+}
